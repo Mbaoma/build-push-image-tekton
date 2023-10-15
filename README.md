@@ -75,4 +75,4 @@ kubectl create -f pipeline-run.yaml
 
 <img width="1792" alt="Screenshot 2023-10-12 at 15 46 47" src="https://github.com/joellord/handson-tekton/assets/49791498/f6bb5ed1-c9e2-4184-acbe-a12176229b24">
 
-[Article]()
+[Article](https://omarrrz-lounge.hashnode.dev/container-deployment-with-tekton)
